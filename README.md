@@ -31,3 +31,9 @@ Browser Run
 ![alt text](image-2.png)
 
 ![alt text](image.png)
+
+#### Experiment 3.2: Be Creative!
+
+![alt text](image-3.png)
+
+I've changed the background color and the color of the sent messages to blue.
