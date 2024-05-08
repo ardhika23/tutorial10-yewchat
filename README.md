@@ -26,9 +26,9 @@ Terminal Run
 
 ![alt text](image-1.png)
 
-Browser Run
-
 ![alt text](image-2.png)
+
+Browser Run
 
 ![alt text](image.png)
 
